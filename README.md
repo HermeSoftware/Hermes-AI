@@ -30,8 +30,8 @@ Kullanıcıların temiz ve duyarlı bir web arayüzü üzerinden yapay zeka ile 
 
 ### 1️⃣ Depoyu klonla
 ```bash
-git clone https://github.com/kullaniciadiniz/ai-chatbot.git
-cd ai-chatbot
+git clone https://github.com/HermesSoftware/Hermes-AI.git
+cd Hermes-AI
 
 2️⃣ Gemini API Anahtarını Al
 
@@ -51,8 +51,8 @@ const GEMINI_API_KEY = "BURAYA_API_ANAHTARINI_YAPIŞTIR";
 
 index.html dosyasını tarayıcıda aç 🎉
 🖼️ Demo
+<img width="1911" height="870" alt="Ekran görüntüsü 2025-08-26 061514" src="https://github.com/user-attachments/assets/d0b8dc9a-215f-4742-97a3-151d574703bd" />
 
-(Buraya sohbet botunun ekran görüntüsünü veya gifini ekleyebilirsin)
 🔧 Özelleştirme
 
     🎨 style.css dosyasını düzenleyerek renkleri, fontları veya tasarımı değiştirebilirsin
@@ -64,6 +64,7 @@ index.html dosyasını tarayıcıda aç 🎉
 📜 Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır – özgürce kullanabilir ve değiştirebilirsiniz.
+
 💡 Katkı
 
 Pull request ve öneriler her zaman açıktır!
