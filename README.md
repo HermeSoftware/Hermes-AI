@@ -51,7 +51,7 @@ const GEMINI_API_KEY = "BURAYA_API_ANAHTARINI_YAPIŞTIR";
 
 index.html dosyasını tarayıcıda aç 🎉
 🖼️ Demo
-<img width="1911" height="870" alt="Ekran görüntüsü 2025-08-26 061514" src="https://github.com/user-attachments/assets/d0b8dc9a-215f-4742-97a3-151d574703bd" />
+<img width="1911" height="870" alt="Ekran görüntüsü 2025-08-26 061514" src="https://github.com/assets/screenshot" />
 
 🔧 Özelleştirme
 
