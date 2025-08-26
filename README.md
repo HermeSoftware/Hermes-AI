@@ -50,8 +50,6 @@ const GEMINI_API_KEY = "BURAYA_API_ANAHTARINI_YAPIŞTIR";
 4️⃣ Projeyi Çalıştır
 
 index.html dosyasını tarayıcıda aç 🎉
-🖼️ Demo
-<img width="1911" height="870" alt="screenshot.png" src="Hermes-AI/screenshot.png" />
 
 🔧 Özelleştirme
 
